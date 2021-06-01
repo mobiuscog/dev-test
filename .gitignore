@@ -36,9 +36,6 @@ buildNumber.properties
 # *.iml
 # *.ipr
 
-# CMake
-cmake-build-*/
-
 # File-based project format
 *.iws
 
